@@ -1,1 +1,3 @@
-# fsd-training-It all about full stack developer.
+# fsd-training-
+It all about full stack developer.
+Author:Ritesh 
